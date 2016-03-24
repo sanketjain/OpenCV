@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 17 18:42:22 2016
-
+Fist Github pull and push
 @author: sanketjain
 """
 
