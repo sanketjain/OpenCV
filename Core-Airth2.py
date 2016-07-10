@@ -1,10 +1,12 @@
+#Code to pick up only outline of OpenCV Logo and add it to Messi5 image
+
 import cv2
 import numpy as np
 
 # Load two images
-img1 = cv2.imread('/Users/sanketjain/Documents/opencv/pictures/messi5.jpg')
-img2 = cv2.imread('/Users/sanketjain/Documents/opencv/pictures/opencvlogo.png')
-img3 = cv2.imread('/Users/sanketjain/Documents/opencv/pictures/BalloonImages.jpg')
+img1 = cv2.imread('/Users/sanketjain/Documents/Coding/opencv/pictures/messi5.jpg')
+img2 = cv2.imread('/Users/sanketjain/Documents/Coding/opencv/pictures/opencvlogo.png')
+img3 = cv2.imread('/Users/sanketjain/Documents/Coding/opencv/pictures/BalloonImages.jpg')
 
 
 
