@@ -1,4 +1,5 @@
-
+# This code takes 2 images and gives them weight. Output is series of images with different weights.
+# These images can be used to make a slide show which simply shows one image diminishes as other appears
 import cv2
 import numpy as np
 
