@@ -1,6 +1,6 @@
 # OpenCV-01
 
-Image/Video processing and Transformations
+Image/Video processing and transformations
 
 --------------
 
