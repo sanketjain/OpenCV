@@ -4,16 +4,18 @@
 
 Gui Features in OpenCV
 Getting Started with Images
-http://docs.opencv.org/3.1.0/dc/d2e/tutorial_py_image_display.html#gsc.tab=0
+http://docs.opencv.org/3.1.0/dc/d2e/tutorial_py_image_display.html
 
 """
+import sys
+sys.path.append('/usr/local/lib/python2.7/site-packages')
 
 
 import numpy as np
 import cv2
 
 # Load an color image in grayscale
-img = cv2.imread('/Users/sanketjain/Documents/Opencv/pictures/messi5.jpg',0)
+img = cv2.imread('/Users/sanketjain/Documents/Opencv/pictures/sanket.jpg',1)
 
 '''
 imread('xyz' , (1, 0 or -1))
