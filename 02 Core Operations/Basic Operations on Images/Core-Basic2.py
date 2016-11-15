@@ -8,7 +8,7 @@ http://docs.opencv.org/3.1.0/d3/df2/tutorial_py_basic_ops.html
 
 
 img1 = cv2.imread('ml.png')
-img2 = cv2.imread('opencv_logo.jpg')
+img2 = cv2.imread('/Users/sanketjain/Documents/OpenCV/02 Core Operations/Basic Operations on Images/opencv-logo.png')
 
 dst = cv2.addWeighted(img1,0.7,img2,0.3,0)
 
