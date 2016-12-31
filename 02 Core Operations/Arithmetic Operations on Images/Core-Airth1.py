@@ -9,6 +9,8 @@ This code imports 2 images and put one over another with weights.
 import sys
 sys.path.append('/usr/local/lib/python2.7/site-packages')
 
+
+
 import cv2
 import numpy as np
 
